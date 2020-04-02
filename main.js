@@ -1,4 +1,4 @@
-const easter = new Date('2020-04-12 00:00:00-0600');
+const easter = new Date('2020-04-12T00:00:00-06:00');
 const $body = document.body;
 const $days = $body.querySelector('#days');
 const $hours = $body.querySelector('#hours');
